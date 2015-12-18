@@ -201,7 +201,7 @@ https://fedoraproject.org/wiki/Building_a_custom_kernel
 
 #####Obtaining firmware binary files
 
-* Firmware binary files for Carrizo and Kaver are included in radeon-firmware_410-604_all.deb
+* Firmware binary files for Carrizo and Kaveri are included in radeon-firmware_410-604_all.deb
 
 ###LICENSE
 
